@@ -1,0 +1,7 @@
+#readme oluşturuldu
+
+
+
+##bilgi
+
+sdjgljurnö
