@@ -1,0 +1,20 @@
+
+#IDE- VSCode
+
+.VSCode/*
+!.vscode/launch.json
+
+
+#img
+
+*.img
+*.jpeg
+img/
+#videos
+*.mp4
+
+#packages
+
+#log
+*.log
+pasword.txt
