@@ -1,7 +1,1 @@
-#readme oluşturuldu
-
-
-
-##bilgi
-
-sdjgljurnö
+#test repo
